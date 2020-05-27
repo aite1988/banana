@@ -6,4 +6,4 @@ print('kk')
 print('kkaaas')
 
 print('test for Github')
-print('....')
+print('.....')
